@@ -1,4 +1,4 @@
-package com.raphael.workshopmongo;
+package com.nelioalves.workshopmongo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
